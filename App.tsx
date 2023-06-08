@@ -5,7 +5,8 @@ function App() {
   return (
     <SafeAreaView style={styles.backgroundStyle}>
       <View style={styles.headerContainer}>
-        <Text style={styles.heading}>Hi, This is a Raw Project !!</Text>
+        <Text style={styles.heading}>Hi</Text>
+        <Text style={styles.heading}>This is a Raw Project !!</Text>
       </View>
     </SafeAreaView>
   );
